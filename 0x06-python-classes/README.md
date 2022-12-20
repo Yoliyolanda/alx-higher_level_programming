@@ -1,1 +1,1 @@
-# Solutions to tasks on 0x06. Python - Classes and Objects 
+ Welcome to my 0x06. Python - Classes and Objects project
