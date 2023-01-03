@@ -1,1 +1,1 @@
-# solution to tasks on 0x08. Python - More Classes and Objects
+Welcome to my 0x08-python-more_classes project.
