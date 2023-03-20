@@ -612,5 +612,4 @@ id  name
 1   California
 id  name    state_id
 1   San Francisco   1
-$
 ```
