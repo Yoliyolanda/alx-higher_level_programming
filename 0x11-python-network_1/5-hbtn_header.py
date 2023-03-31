@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This Python script takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header.
+"""This Python script displays the value of the variable X-Request-Id.
 """
 import sys
 import requests

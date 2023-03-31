@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""This Python st 10 commits (from the most recent to oldest) 
+"""This Python script list 10 commits.
 """
 import sys
 import requests
