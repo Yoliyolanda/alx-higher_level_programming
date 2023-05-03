@@ -1,23 +1,6 @@
- JavaScript - Web jQuery
+JavaScript - Web jQuery
+![image](https://user-images.githubusercontent.com/111048409/235920945-bdd4a4ed-fa05-48dd-b8db-277e2decc462.png)
 
-Resources
-Read or watch:
-
-What is JavaScript?
-Selector
-Get and set content
-Manipulate CSS classes
-Manipulate DOM elements
-API
-Introduction
-GET & POST request
-JQuery Ajax Tutorial #1 - Using AJAX & API’s
-What went wrong? Troubleshooting JavaScript
-JQuery
-JQuery API
-JQuery Ajax
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 General
 Why JQuery make front-end programming so easy (don’t forget to tweet today, with the hashtag #ilovejquery :))
